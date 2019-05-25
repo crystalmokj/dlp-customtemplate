@@ -8203,7 +8203,7 @@ a.navbar-link.is-active {
     flex-direction: column;
     justify-content: space-between;
     height:100vh;
-    object-fit:contain;
+    background-position:center;
 }
 .bp-hero .navbar {
     background: none;
