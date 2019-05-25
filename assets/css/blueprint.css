@@ -8202,7 +8202,7 @@ a.navbar-link.is-active {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height:110vh;
+    height:120vh;
     background-position:center;
 }
 .bp-hero .navbar {
