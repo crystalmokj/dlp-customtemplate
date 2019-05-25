@@ -8202,6 +8202,8 @@ a.navbar-link.is-active {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    height:100vh;
+    object-fit:contain;
 }
 .bp-hero .navbar {
     background: none;
